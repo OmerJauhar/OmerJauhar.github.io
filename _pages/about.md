@@ -9,18 +9,25 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>172.168.16.11</p>
+    <p>127.0.0.1</p>
+    <p>28:O5:FF:58:31:05</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
----
+--- 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to Omer's World of Computer Science!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello there! I'm Omer, a passionate and curious computer science student on a journey to explore the vast realm of technology. This website is my virtual playground, where I share my Blog, Projects, and insights into the fascinating world of computers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a computer science enthusiast, I find joy in unraveling the mysteries of algorithms, delving into the magic of programming languages, and unlocking the potential of cutting-edge technologies. From coding to creating, I'm constantly seeking new challenges to sharpen my skills and expand my horizons.
+
+Through this platform, I hope to inspire and connect with fellow tech enthusiasts, students, and professionals alike. You'll find a mix of my projects, tutorials, and thoughts on the latest trends and breakthroughs in the ever-evolving tech landscape.
+
+So join me on this exciting journey as we navigate the virtual universe of computer science together. Let's embark on this adventure of learning, problem-solving, and embracing the wonders of technology.
+
+Happy coding,
+Omer
