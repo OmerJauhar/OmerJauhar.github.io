@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Website!! 
+title: New Website! 
 date: 2023-07-15 16:11:00-0500
 inline: false
 related_posts: false
